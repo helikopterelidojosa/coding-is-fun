@@ -1,0 +1,12 @@
+body {
+  background-color: blue;
+  color: #fff;
+}
+
+.story-article {
+  background-color: black;
+  color: #00ffff;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-family: monospace;
+}
